@@ -1,0 +1,15 @@
+{
+  "mlmanager.hotkeys.category.generic_hotkeys":"Generic Hotkeys",
+  "mlmanager.gui.button.config_gui.generic":"通用",
+  "mlmanager.gui.button.config_gui.hotkeys": "热键",
+  "mlmanager.gui.title.configs": "材料列表管理器配置菜单",
+  "mlmanager.hotkey.openGuiSettings": "打开配置菜单",
+  "mlmanager.hotkey.openGuiSettings.comment": "打开此配置菜单",
+  "mlmanager.hotkey.showOnCraftTableToggle": "列表在合成台旁展示开关",
+  "mlmanager.hotkey.showOnCraftTableToggle.comment": "是否在合成台旁展示开关。",
+  "mlmanager.config.enableShowingOnCraftTable": "合成台旁展示列表",
+  "mlmanager.config.enableShowingOnCraftTable.comment": "在合成台旁展示列表。",
+  "mlmanager.gui.title.mlmanager_main_menu": "材料列表管理器",
+  "mlmanager.gui.button.change_menu.configuration_menu": "配置菜单",
+  "mlmanager.gui.button.change_menu.to_main_menu": "主菜单"
+}

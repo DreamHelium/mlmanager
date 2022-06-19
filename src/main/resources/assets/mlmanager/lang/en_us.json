@@ -1,0 +1,15 @@
+{
+  "mlmanager.hotkeys.category.generic_hotkeys":"Generic Hotkeys",
+  "mlmanager.gui.button.config_gui.generic":"Generic",
+  "mlmanager.gui.button.config_gui.hotkeys": "Hotkeys",
+  "mlmanager.gui.title.configs": "Material List Manager Config Settings",
+  "mlmanager.hotkey.openGuiSettings": "openGuiSettings",
+  "mlmanager.hotkey.openGuiSettings.comment": "Open config menu.",
+  "mlmanager.hotkey.showOnCraftTableToggle": "showOnCraftTableToggle",
+  "mlmanager.hotkey.showOnCraftTableToggle.comment": "Turn on or turn off showing on craft table.",
+  "mlmanager.config.enableShowingOnCraftTable": "enableShowingOnCraftTable",
+  "mlmanager.config.enableShowingOnCraftTable.comment": "Show list besides craft table.",
+  "mlmanager.gui.title.mlmanager_main_menu": "Material List Manager",
+  "mlmanager.gui.button.change_menu.configuration_menu": "Configuration Menu",
+  "mlmanager.gui.button.change_menu.to_main_menu": "Main Menu"
+}
